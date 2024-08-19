@@ -3,9 +3,9 @@
 ## Project Info
 
 Hola buen día a quien sea que esté leyendo esto
-Mi nombre es Francisco Agustín De La Colina, este es el proyecto de Pokemon que desarrolle para aplicar al puesto de Developer ajustandose a los requisitos del challenge que me fue enviado, me encantaría tener la oportunidad de charlar con ustedes.
+Mi nombre es Francisco Agustín De La Colina, este es el proyecto de Pokemon que desarrolle para aplicar al puesto de Developer ajustandose a los requisitos del challenge que me fue enviado, me encantaría tener la oportunidad de charlar con ustedes. En los folders de server y client tienen sus respectivos readme con instrucciones para levantar los proyectos.
 
-El proyecto está preparado utilizando NestJS como BackEnd Framework, TypeORM como ORM para el manejo de entidades de la database y sqlite3 como SQL DB engine. La migración para la creación de la DB está realizada, esta incluye también la populación de esta desde el archivo pokemon.json.
+El proyecto está preparado utilizando NestJS como BackEnd Framework, TypeORM como ORM para el manejo de entidades de la database y sqlite3 como SQL DB engine. La migración para la creación de la DB está realizada, esta incluye también la populación de esta desde el archivo pokemon.json. In the folders of server and client are the readme files for setting up the projects.
 
 Hi, I hope you are having a great day
 I'm Francisco Agustín De La Colina, this is the Pokemon project that i made to apply to the developer job. If anyone has a question about this please contact me in LinkedIn that i would love to give you answers and a little chat.
