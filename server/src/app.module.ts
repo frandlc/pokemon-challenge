@@ -1,6 +1,4 @@
 import { Module } from "@nestjs/common";
-import { AppController } from "./app.controller";
-import { AppService } from "./app.service";
 import { PokemonsModule } from "./pokemons/pokemons.module";
 import { BattlesModule } from "./battles/battles.module";
 import { TypeOrmModule } from "@nestjs/typeorm";
@@ -12,8 +10,6 @@ import { dataSourceOptions } from "db/data-source";
 		PokemonsModule,
 		BattlesModule,
 	],
-	controllers: [AppController],
-	providers: [AppService],
 })
 export class AppModule {
 	constructor() {}
